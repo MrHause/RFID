@@ -1,0 +1,40 @@
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csprojAssemblyReference.cache
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Form1.resources
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Properties.Resources.resources
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.GenerateResource.cache
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.CoreCompileInputs.cache
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe.config
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.pdb
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.exe
+C:\Users\MrHause\source\repos\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe.config
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csprojAssemblyReference.cache
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Form1.resources
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Properties.Resources.resources
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.GenerateResource.cache
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.CoreCompileInputs.cache
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim1\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe.config
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csprojAssemblyReference.cache
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Form1.resources
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Properties.Resources.resources
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.GenerateResource.cache
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.CoreCompileInputs.cache
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim2\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe.config
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\bin\Debug\symulacja RFID.pdb
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csprojAssemblyReference.cache
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Form1.resources
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja_RFID.Properties.Resources.resources
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.GenerateResource.cache
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.csproj.CoreCompileInputs.cache
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.exe
+C:\Users\MrHause\Desktop\sim3\symulacja RFID\symulacja RFID\obj\Debug\symulacja RFID.pdb
